@@ -24,3 +24,33 @@ h1{
 	font-size: 8rem;
 	color: white;	
 }
+
+main{
+	height: 100vh;
+}
+
+ul {
+	list-style-type: none;
+	display:flex;
+	justify-content: space-around;
+}
+
+li {
+	display:flex;
+	flex-flow: column;
+	align-items: center; 
+}
+
+img{
+	width: 15rem;
+	height: 25rem;
+	object-fit: cover;
+}
+
+h3 {
+	font-size:  2rem;
+}
+
+button {
+	padding: 0.5rem;
+}
