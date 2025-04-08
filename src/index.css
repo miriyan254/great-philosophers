@@ -54,3 +54,12 @@ h3 {
 button {
 	padding: 0.5rem;
 }
+
+section {
+	font-size: 2rem;
+	padding: 2rem;
+	margin: 2rem;
+	color: white;
+	background-color: grey;
+	border-radius: 10px;
+}
